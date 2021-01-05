@@ -1,5 +1,6 @@
 Add this line to your project.pro
 QT += serialport
+//////////////////////////////////////////////
 
 #include <QCoreApplication>
 #include <linux/serial.h>
